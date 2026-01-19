@@ -1,0 +1,33 @@
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-group label {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.btn-block {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.input-error {
+  border-color: #e74c3c;
+  background: #fff6f5;
+}
+
+.error-text {
+  color: #e74c3c;
+  font-size: 13px;
+}
+
+
